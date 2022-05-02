@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 ## LeetCode Activity
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=wangwaynesg" width="400"/>
-</a>
+![Leetcode Stats](https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=wangwaynesg)
 
 <!--
 **wangwaynesg/wangwaynesg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
