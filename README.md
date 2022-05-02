@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## LeetCode Activity
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&extension=activity)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=wangwaynesg&extension=activity)
 
 <!--
 **wangwaynesg/wangwaynesg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
