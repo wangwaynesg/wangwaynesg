@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+I like developing products which impacts users like myself and many others! 
 
-### LeetCode is Lyfe
+## LeetCode is Lyfe
 [![Leetcode Stats](https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=wangwaynesg)](https://leetcode.com/wangwaynesg/)
 
 
