@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-## LeetCode Activity
+### LeetCode is Lyfe
 [![Leetcode Stats](https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=wangwaynesg)](https://leetcode.com/wangwaynesg/)
 
 
