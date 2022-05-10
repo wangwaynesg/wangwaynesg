@@ -2,7 +2,7 @@
 I like developing products which impacts users like myself and many others! 
 
 ## LeetCode is Lyfe
-![[Leetcode Stats](https://leetcode.card.workers.dev/?username=wangwaynesg&theme=wtf)](https://leetcode.com/wangwaynesg/)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=wangwaynesg&theme=wtf)](https://leetcode.com/wangwaynesg/)
 
 <!--
 **wangwaynesg/wangwaynesg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
