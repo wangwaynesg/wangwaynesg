@@ -1,7 +1,7 @@
 ## Hi there 👋
 I like developing products which impacts users like myself and many others! 
 
-## LeetCode is Lyfe
+## A LeetCode a day keeps unemployment away
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=wangwaynesg&theme=wtf)](https://leetcode.com/wangwaynesg/)
 
 <!--
