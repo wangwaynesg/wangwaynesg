@@ -1,5 +1,14 @@
-## Hi there 👋
-I like developing products which impacts users like myself and many others! 
+## Hi there, I'm Wayne 👋
+
+- 📖 &nbsp;&nbsp;I am currently a Final Year Student at Nanyang Technological University.
+- 📱 &nbsp;&nbsp;I like developing products which impacts users like myself and many others!
+- 🧑‍💻 &nbsp;&nbsp;I aspire to be a Software Engineer!
+
+## Connect with me
+
+- [Personal Website](https://wangwaynesg.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/wangwaynesg/)
+- [Email](mailto:wangwaynesg@gmail.com)
 
 ## A LeetCode a day keeps unemployment away
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=wangwaynesg&theme=wtf)](https://leetcode.com/wangwaynesg/)
