@@ -6,7 +6,7 @@
 
 ## Learn more
 
-- [Personal Website](https://wangwaynesg.github.io/)
+- [Personal Website](https://wangwaynesg.com)
 - [LinkedIn](https://www.linkedin.com/in/wangwaynesg/)
 
 ## A LeetCode a day keeps unemployment away
